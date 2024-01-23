@@ -1,0 +1,92 @@
+{
+  "students": [
+    {
+      "username": "mahmoud",
+      "email": "test@test.com",
+      "password": "123456",
+      "id": "1"
+    },
+    {
+      "username": "mm",
+      "email": "test2@test.com",
+      "password": "123456",
+      "Subject": [
+        {
+          "name": "الرياضات",
+          "id": "d534",
+          "degree": 0
+        },
+        {
+          "name": "الرياضات",
+          "id": "d534",
+          "degree": 1
+        }
+      ],
+      "id": "659b"
+    },
+    {
+      "username": "Ahmed",
+      "email": "a@test.com",
+      "password": "123456",
+      "Subject": [
+        {
+          "name": "الرياضات",
+          "id": "d534",
+          "degree": 2
+        }
+      ],
+      "id": "60e8"
+    }
+  ],
+  "doctor": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@test.com",
+      "password": "123456"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "8f95",
+      "name": "العلوم",
+      "question": [
+        {
+          "question": "عدد اسنان الانسان",
+          "answer1": "20",
+          "answer2": "32",
+          "answer3": "35",
+          "answer4": "25",
+          "correctanswer": "32"
+        }
+      ]
+    },
+    {
+      "id": "d534",
+      "name": "الرياضات",
+      "question": [
+        {
+          "question": "6+6",
+          "answer1": "14",
+          "answer2": "20",
+          "answer3": "15",
+          "answer4": "12",
+          "correctanswer": "12"
+        },
+        {
+          "question": "10+10",
+          "answer1": "18",
+          "answer2": "1000",
+          "answer3": "20",
+          "answer4": "100",
+          "correctanswer": "20"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "id": "1"
+    }
+  ]
+}
